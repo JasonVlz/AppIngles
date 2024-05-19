@@ -34,7 +34,7 @@
         android:layout_height="103dp"
         android:layout_marginTop="20dp"
         android:layout_marginBottom="100dp"
-        android:text="Curso 2"
+        android:text="Herramientas"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
